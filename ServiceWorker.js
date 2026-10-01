@@ -2,7 +2,7 @@ const cacheName = "Cuberlab-POC-Matematik-0.0.1";
 const contentToCache = [
     "Build/f8571913e6247e4f9f779d12a49aca95.loader.js",
     "Build/df1dfb0c2d397f8888b8dbffd6cf4568.framework.js.unityweb",
-    "Build/8d4997cddf55ab62bdb04dc9da16ea1c.data.unityweb",
+    "Build/a5ba2e44096c459174a5d74489bb736f.data.unityweb",
     "Build/dfcab67bcd5ce2cb69ec0192a030ece3.wasm.unityweb",
     "TemplateData/style.css"
 
